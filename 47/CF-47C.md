@@ -1,6 +1,7 @@
 <center> C.填字游戏</center>
 <center> 时间限制：2秒</center>
 <center> 空间限制：256M</center>
+[题目链接](https://codeforces.com/problemset/problem/47/C)
 
 Vasya训练玩填字游戏。 到目前为止，他只能玩非常简单的填字游戏。 它们全都由六个词组成； 单词只能从上到下垂直排列，或者从左到右水平排列。 单词以用类似 $8$ 或者 $\infty$ 的形式排列，不一定对称。
 
